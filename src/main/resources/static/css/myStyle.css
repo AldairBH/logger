@@ -1,0 +1,42 @@
+.fondo{
+	background-color: rgb(115, 147, 146);
+}
+.fondo2{
+	background-color: rgb(137, 157, 169);
+}
+.datos{
+	margin-left: 30px;
+}
+.botonReg{
+	margin-left: 800px;
+}
+.texto{
+	padding: 30px 100px 0px;
+}
+.img{
+	margin: 0 auto;
+	margin-top: 40px;
+	width: 500px;
+	height: 500px;
+}
+.formu{
+	padding: 30px 0px 0px;
+	text-align: center;
+	align-content: center;
+	margin: 0 auto;
+	width: 300px;
+}
+.botonReg2{
+	padding: 30px 0px 30px;
+	text-align: center;
+	align-content: center;
+	margin: 0 auto;
+	width: 300px;
+}
+.divreg{
+	margin-top: 40px;
+	margin-bottom: 40px;
+	margin-left: 350px;
+	margin-right: 350px;
+	background-color: rgb(236, 239, 116);
+}
